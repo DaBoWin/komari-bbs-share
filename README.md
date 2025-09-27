@@ -1,4 +1,4 @@
-# MJJBOX论坛Komari探针监控 使用教程
+# MJJBOX论坛Komari探针监控社区分享 使用教程
 
 一个为MJJBOX论坛用户设计的Tampermonkey脚本，可以在论坛中分享展示Komari探针的服务器统计信息。
 
